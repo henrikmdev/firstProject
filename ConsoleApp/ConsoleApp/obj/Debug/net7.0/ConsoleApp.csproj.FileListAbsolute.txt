@@ -1,0 +1,15 @@
+/Users/henrik/HenrikMDev/firstProject/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/henrik/HenrikMDev/firstProject/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/henrik/HenrikMDev/firstProject/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/henrik/HenrikMDev/firstProject/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/henrik/HenrikMDev/firstProject/ConsoleApp/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/henrik/HenrikMDev/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/henrik/HenrikMDev/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/henrik/HenrikMDev/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/henrik/HenrikMDev/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/henrik/HenrikMDev/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/henrik/HenrikMDev/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/henrik/HenrikMDev/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/henrik/HenrikMDev/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/henrik/HenrikMDev/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/henrik/HenrikMDev/firstProject/ConsoleApp/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
